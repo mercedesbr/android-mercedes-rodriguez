@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Configuración local (ruta del SDK, claves)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+
+# Sistema
+.DS_Store
+Thumbs.db
